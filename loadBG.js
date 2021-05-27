@@ -62,7 +62,7 @@ load(1);
 
 
 
-let slideIndex = 4;
+let slideIndex = 1;
 showSlides(slideIndex);
 
 document.addEventListener('keyup', (event) => {
